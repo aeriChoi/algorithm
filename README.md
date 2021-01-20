@@ -1,2 +1,2 @@
-# algorithm
-Learning to algorithm for javascript
+# Initial page
+
